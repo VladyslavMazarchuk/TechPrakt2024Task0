@@ -1,4 +1,7 @@
-![](https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png )
+<p align="left">
+ <img width="200px" src="https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png"/>
+</p>
+
 Виконання практичної роботи передбачає вивчення прийомів роботи з системою контролю версій **Git**:
 * створення віддаленого репозиторію;
 * клонування віддаленого репозиторію;
